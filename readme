@@ -1,0 +1,6 @@
+DevExpress offers a great installer for their componets and frameworks. 
+But if you work in a continuous integration environment or have to deal with different versions of the components,
+NuGet packages are the better way to deploy and version-control dependencies. 
+This project contains .nuspec files for  DevExpress WinForms, Web and XAF assemblies. 
+
+This is not an official release and  is not supported by DevExpress.
