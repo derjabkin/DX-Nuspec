@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp.EF</id>
+    <version>$version$</version>
+    <title>DevExpress.ExpressApp.EF</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.EF</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.ExpressApp" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.EF.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.EF.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.EF.v13.2.dll" />
+  </files>
+</package>

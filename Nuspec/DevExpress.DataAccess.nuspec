@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.DataAccess</id>
+    <version>$version$</version>
+    <title>DevExpress.DataAccess</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.DataAccess</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Xpo" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.DataAccess.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.DataAccess.v13.2.dll" target="lib\net40\DevExpress.DataAccess.v13.2.dll" />
+    <file src="$SourceDir$\de\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v13.2.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\ru\DevExpress.DataAccess.v13.2.resources.dll" />
+  </files>
+</package>

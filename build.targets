@@ -1,0 +1,13 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">  
+  <PropertyGroup>
+    <NugetTargetPath>bin\nuget</NugetTargetPath>
+    <Version>13.2.8.2</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <NuspecFile Include="NuSpec\*.nuspec" />
+  </ItemGroup>
+  <Target Name="NuGet" Inputs="@(NuspecFile)" Outputs="NotUsedOutput">
+    <MakeDir Directories="$(NugetTargetPath)" />
+    <Exec ContinueOnError="false" Command="$(NuGetTool) pack %(NuspecFile.Identity) -BasePath $(MSBuildProjectDirectory) -OutputDirectory $(NugetTargetPath) -Version $(Version) -Properties SourceDir=bin\$(Configuration)" />
+  </Target>
+</Project>

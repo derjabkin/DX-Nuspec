@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.XtraLayout</id>
+    <version>$version$</version>
+    <title>DevExpress XtraLayout</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress XtraLayout control</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014 Sergej Derjabkin</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.XtraTreeList" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.XtraLayout.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.XtraLayout.v13.2.dll" target="lib\net40\DevExpress.XtraLayout.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.XtraLayout.v13.2.Design.dll" target="lib\net40\DevExpress.XtraLayout.v13.2.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraLayout.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraLayout.v13.2.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraLayout.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraLayout.v13.2.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraLayout.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraLayout.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraLayout.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraLayout.v13.2.resources.dll" />
+  </files>
+</package>

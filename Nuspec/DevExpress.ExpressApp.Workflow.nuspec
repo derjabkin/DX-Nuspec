@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp.Workflow</id>
+    <version>$version$</version>
+    <title>DevExpress.ExpressApp.Workflow</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.Workflow</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.ExpressApp.Security" version="[$version$]" />
+      <dependency id="DevExpress.Workflow.Activities" version="[$version$]" />
+      <dependency id="DevExpress.ExpressApp.ConditionalAppearance" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.Workflow.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.Workflow.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Workflow.v13.2.dll" />
+    <file src="$SourceDir$\de\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Workflow.v13.2.resources.dll" />
+  </files>
+</package>

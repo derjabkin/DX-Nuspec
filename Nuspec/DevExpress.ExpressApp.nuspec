@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp</id>
+    <version>$version$</version>
+    <title>DevExpress.ExpressApp</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Core" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Design.v13.2.dll" />
+    <file src="$SourceDir$\de\DevExpress.ExpressApp.v13.2.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.v13.2.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.ExpressApp.v13.2.resources.dll" target="lib\net40\es\DevExpress.ExpressApp.v13.2.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.ExpressApp.v13.2.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.ExpressApp.v13.2.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.v13.2.resources.dll" />
+  </files>
+</package>

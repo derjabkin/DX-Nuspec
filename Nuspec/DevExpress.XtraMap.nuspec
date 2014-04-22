@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.XtraMap</id>
+    <version>$version$</version>
+    <title>DevExpress.XtraMap</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.XtraMap</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Map.Core" version="[$version$]" />
+      <dependency id="DevExpress.XtraPrinting" version="[$version$]" />
+      <dependency id="DevExpress.Design" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.XtraMap.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.XtraMap.v13.2.dll" target="lib\net40\DevExpress.XtraMap.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v13.2.Design.dll" target="lib\net40\DevExpress.XtraMap.v13.2.Design.dll" />
+  </files>
+</package>

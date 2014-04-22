@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Persistent.Base</id>
+    <version>$version$</version>
+    <title>DevExpress.Persistent.Base</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Persistent.Base</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.ExpressApp.Xpo" version="[$version$]" />
+      <dependency id="DevExpress.XtraReports" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Persistent.Base.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Persistent.Base.v13.2.dll" target="lib\net40\DevExpress.Persistent.Base.v13.2.dll" />
+  </files>
+</package>

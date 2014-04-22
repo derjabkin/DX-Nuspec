@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.SpellChecker.Core</id>
+    <version>$version$</version>
+    <title>DevExpress.SpellChecker.Core</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.SpellChecker.Core</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Core" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Spellchecker.v13.2.Core.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.SpellChecker.v13.2.Core.dll" target="lib\net40\DevExpress.SpellChecker.v13.2.Core.dll" />
+  </files>
+</package>

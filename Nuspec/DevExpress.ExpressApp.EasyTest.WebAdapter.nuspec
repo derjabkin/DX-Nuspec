@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp.EasyTest.WebAdapter</id>
+    <version>$version$</version>
+    <title>DevExpress.ExpressApp.EasyTest.WebAdapter</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.EasyTest.WebAdapter</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.EasyTest" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.EasyTest.WebAdapter.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.EasyTest.WebAdapter.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.EasyTest.WebAdapter.v13.2.dll" />
+  </files>
+</package>

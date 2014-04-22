@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.XtraCharts</id>
+    <version>$version$</version>
+    <title>DevExpress.XtraCharts</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.XtraCharts</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Utils.UI" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.XtraCharts.v13.2.dll" />
+      <reference file="DevExpress.XtraCharts.v13.2.UI.dll" />
+      <reference file="DevExpress.XtraCharts.v13.2.Wizard.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.UI.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.UI.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.Wizard.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.Wizard.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.Design.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.Design.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.Extensions.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.Extensions.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraCharts.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraCharts.v13.2.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraCharts.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraCharts.v13.2.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraCharts.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraCharts.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraCharts.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraCharts.v13.2.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" target="lib\net40\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" target="lib\net40\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" target="lib\net40\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" target="lib\net40\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll" />
+  </files>
+</package>

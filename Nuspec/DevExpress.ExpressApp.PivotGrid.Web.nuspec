@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp.PivotGrid.Web</id>
+    <version>$version$</version>
+    <title>DevExpress.ExpressApp.PivotGrid.Web</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.PivotGrid.Web</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.ExpressApp.Web" version="[$version$]" />
+      <dependency id="DevExpress.ExpressApp.PivotGrid" version="[$version$]" />
+      <dependency id="DevExpress.Web.ASPxPivotGrid" version="[$version$]" />
+      <dependency id="DevExpress.XtraCharts.Web" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.PivotGrid.Web.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.PivotGrid.Web.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.PivotGrid.Web.v13.2.dll" />
+  </files>
+</package>

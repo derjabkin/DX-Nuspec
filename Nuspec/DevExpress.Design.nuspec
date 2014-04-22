@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Design</id>
+    <version>$version$</version>
+    <title>DevExpress Design</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Design</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014 Sergej Derjabkin</copyright>
+    <tags>DevEpxress</tags>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Design.v13.2.dll" target="lib\net40\DevExpress.Design.v13.2.dll" />
+	<file src="$SourceDir$\DevExpress.XtraPrinting.v13.2.Design.dll" target="lib\net40\DevExpress.XtraPrinting.v13.2.Design.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v13.2.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Design.v13.2.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.Win.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Win.Design.v13.2.dll" />
+	<file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.Design.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.Design.dll" />	
+	<file src="$SourceDir$\DevExpress.ExpressApp.Design.ModelEditor.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Design.ModelEditor.v13.2.dll" />		
+  </files>
+</package>

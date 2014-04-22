@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.ExpressApp.DesignCore</id>
+    <version>13.2.6.3</version>
+    <title>DevExpress.ExpressApp.Design.DesignCore</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.ExpressApp.Design.DesignCore</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies></dependencies>
+    <references>
+      <reference file="DevExpress.ExpressApp.DesignCore.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v13.2.dll" />
+  </files>
+</package>

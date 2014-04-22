@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Map.Core</id>
+    <version>$version$</version>
+    <title>DevExpress.Map.Core</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Map.Core</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Core" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Map.v13.2.Core.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Map.v13.2.Core.dll" target="lib\net40\DevExpress.Map.v13.2.Core.dll" />
+    <file src="$SourceDir$\de\DevExpress.Map.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.Map.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Map.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.Map.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Map.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.Map.v13.2.Core.resources.dll" />
+  </files>
+</package>

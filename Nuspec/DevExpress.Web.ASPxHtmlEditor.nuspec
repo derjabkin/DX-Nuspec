@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Web.ASPxHtmlEditor</id>
+    <version>$version$</version>
+    <title>DevExpress.Web.ASPxHtmlEditor</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Web.ASPxHtmlEditor</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Web.ASPxSpellChecker" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Web.ASPxHtmlEditor.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v13.2.dll" target="lib\net40\DevExpress.Web.ASPxHtmlEditor.v13.2.dll" />
+    <file src="$SourceDir$\de\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
+  </files>
+</package>

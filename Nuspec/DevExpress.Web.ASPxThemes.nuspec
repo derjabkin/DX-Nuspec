@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Web.ASPxThemes</id>
+    <version>$version$</version>
+    <title>DevExpress.Web.ASPxThemes</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Web.ASPxThemes</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Web" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Web.ASPxThemes.v13.2.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Web.ASPxThemes.v13.2.dll" target="lib\net40\DevExpress.Web.ASPxThemes.v13.2.dll" />
+  </files>
+</package>

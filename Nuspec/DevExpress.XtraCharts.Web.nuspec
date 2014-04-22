@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.XtraCharts.Web</id>
+    <version>$version$</version>
+    <title>DevExpress.XtraCharts.Web</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.XtraCharts.Web</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.XtraCharts" version="[$version$]" />
+      <dependency id="DevExpress.Web" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.XtraCharts.v13.2.Web.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.Web.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.Web.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v13.2.Web.Design.dll" target="lib\net40\DevExpress.XtraCharts.v13.2.Web.Design.dll" />
+  </files>
+</package>

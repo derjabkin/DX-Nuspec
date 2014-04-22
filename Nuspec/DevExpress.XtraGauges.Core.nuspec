@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.XtraGauges.Core</id>
+    <version>$version$</version>
+    <title>DevExpress.XtraGauges.Core</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.XtraGauges.Core</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Core" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.XtraGauges.v13.2.Core.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.XtraGauges.v13.2.Core.dll" target="lib\net40\DevExpress.XtraGauges.v13.2.Core.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
+  </files>
+</package>
