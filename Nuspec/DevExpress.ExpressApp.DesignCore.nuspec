@@ -13,10 +13,10 @@
     <tags>DevEpxress</tags>
     <dependencies></dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.DesignCore.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.DesignCore.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v14.1.dll" />
   </files>
 </package>

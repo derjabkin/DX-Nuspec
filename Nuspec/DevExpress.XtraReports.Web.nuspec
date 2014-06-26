@@ -16,14 +16,14 @@
       <dependency id="DevExpress.XtraReports" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraReports.v13.2.Web.dll" />
+      <reference file="DevExpress.XtraReports.v14.1.Web.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraReports.v13.2.Web.dll" target="lib\net40\DevExpress.XtraReports.v13.2.Web.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraReports.v13.2.Web.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v13.2.Web.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraReports.v13.2.Web.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v13.2.Web.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraReports.v13.2.Web.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v13.2.Web.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraReports.v13.2.Web.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v13.2.Web.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Web.dll" target="lib\net40\DevExpress.XtraReports.v14.1.Web.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v14.1.Web.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v14.1.Web.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v14.1.Web.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v14.1.Web.resources.dll" />
   </files>
 </package>

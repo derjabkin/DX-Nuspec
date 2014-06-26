@@ -17,15 +17,15 @@
       <dependency id="DevExpress.Design" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraGrid.v13.2.dll" />
+      <reference file="DevExpress.XtraGrid.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraGrid.v13.2.dll" target="lib\net40\DevExpress.XtraGrid.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraGrid.v13.2.Design.dll" target="lib\net40\DevExpress.XtraGrid.v13.2.Design.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraGrid.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraGrid.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraGrid.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraGrid.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraGrid.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraGrid.v14.1.dll" target="lib\net40\DevExpress.XtraGrid.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraGrid.v14.1.Design.dll" target="lib\net40\DevExpress.XtraGrid.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraGrid.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraGrid.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraGrid.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraGrid.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraGrid.v14.1.resources.dll" />
   </files>
 </package>

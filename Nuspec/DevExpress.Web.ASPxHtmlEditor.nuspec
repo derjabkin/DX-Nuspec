@@ -15,14 +15,14 @@
       <dependency id="DevExpress.Web.ASPxSpellChecker" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.Web.ASPxHtmlEditor.v13.2.dll" />
+      <reference file="DevExpress.Web.ASPxHtmlEditor.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v13.2.dll" target="lib\net40\DevExpress.Web.ASPxHtmlEditor.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Web.ASPxHtmlEditor.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxHtmlEditor.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
   </files>
 </package>

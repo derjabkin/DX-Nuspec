@@ -16,10 +16,10 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Xpo.v13.2.dll" target="lib\net40\DevExpress.Xpo.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.Xpo.v13.2.resources.dll" target="lib\net40\de\DevExpress.Xpo.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Xpo.v13.2.resources.dll" target="lib\net40\es\DevExpress.Xpo.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Xpo.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Xpo.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Xpo.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Xpo.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.Xpo.v14.1.dll" target="lib\net40\DevExpress.Xpo.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.Xpo.v14.1.resources.dll" target="lib\net40\de\DevExpress.Xpo.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Xpo.v14.1.resources.dll" target="lib\net40\es\DevExpress.Xpo.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Xpo.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Xpo.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Xpo.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Xpo.v14.1.resources.dll" />
   </files>
 </package>

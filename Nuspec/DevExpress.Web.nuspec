@@ -15,15 +15,15 @@
       <dependency id="DevExpress.Core" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.Web.v13.2.dll" />
+      <reference file="DevExpress.Web.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.v13.2.dll" target="lib\net40\DevExpress.Web.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.Web.v13.2.Design.dll" target="lib\net40\DevExpress.Web.v13.2.Design.dll" />
-    <file src="$SourceDir$\de\DevExpress.Web.v13.2.resources.dll" target="lib\net40\de\DevExpress.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Web.v13.2.resources.dll" target="lib\net40\es\DevExpress.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Web.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Web.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Web.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.Web.v14.1.dll" target="lib\net40\DevExpress.Web.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Web.v14.1.Design.dll" target="lib\net40\DevExpress.Web.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.Web.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Web.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Web.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Web.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Web.v14.1.resources.dll" />
   </files>
 </package>

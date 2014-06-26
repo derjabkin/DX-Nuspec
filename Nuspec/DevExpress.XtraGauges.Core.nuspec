@@ -15,14 +15,14 @@
       <dependency id="DevExpress.Core" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraGauges.v13.2.Core.dll" />
+      <reference file="DevExpress.XtraGauges.v14.1.Core.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraGauges.v13.2.Core.dll" target="lib\net40\DevExpress.XtraGauges.v13.2.Core.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraGauges.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.XtraGauges.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraGauges.v14.1.Core.dll" target="lib\net40\DevExpress.XtraGauges.v14.1.Core.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraGauges.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.XtraGauges.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraGauges.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.XtraGauges.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll" />
   </files>
 </package>

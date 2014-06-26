@@ -17,11 +17,11 @@
       <dependency id="DevExpress.Design" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraMap.v13.2.dll" />
+      <reference file="DevExpress.XtraMap.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraMap.v13.2.dll" target="lib\net40\DevExpress.XtraMap.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraMap.v13.2.Design.dll" target="lib\net40\DevExpress.XtraMap.v13.2.Design.dll" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.dll" target="lib\net40\DevExpress.XtraMap.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.Design.dll" target="lib\net40\DevExpress.XtraMap.v14.1.Design.dll" />
   </files>
 </package>

@@ -17,15 +17,15 @@
       <dependency id="DevExpress.Design" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraSpellchecker.v13.2.dll" />
+      <reference file="DevExpress.XtraSpellchecker.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraSpellChecker.v13.2.dll" target="lib\net40\DevExpress.XtraSpellChecker.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraSpellChecker.v13.2.Design.dll" target="lib\net40\DevExpress.XtraSpellChecker.v13.2.Design.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraSpellChecker.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraSpellChecker.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraSpellChecker.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraSpellChecker.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraSpellChecker.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraSpellChecker.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraSpellChecker.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraSpellChecker.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraSpellChecker.v14.1.dll" target="lib\net40\DevExpress.XtraSpellChecker.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraSpellChecker.v14.1.Design.dll" target="lib\net40\DevExpress.XtraSpellChecker.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraSpellChecker.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraSpellChecker.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraSpellChecker.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraSpellChecker.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll" />
   </files>
 </package>

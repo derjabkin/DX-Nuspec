@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.BonusSkins.v13.2.dll" target="lib\net40\DevExpress.BonusSkins.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.BonusSkins.v14.1.dll" target="lib\net40\DevExpress.BonusSkins.v14.1.dll" />
   </files>
 </package>

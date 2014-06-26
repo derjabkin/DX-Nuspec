@@ -15,15 +15,15 @@
       <dependency id="DevExpress.XtraTreeList" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraVerticalGrid.v13.2.dll" />
+      <reference file="DevExpress.XtraVerticalGrid.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraVerticalGrid.v13.2.dll" target="lib\net40\DevExpress.XtraVerticalGrid.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraVerticalGrid.v13.2.Design.dll" target="lib\net40\DevExpress.XtraVerticalGrid.v13.2.Design.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraVerticalGrid.v14.1.dll" target="lib\net40\DevExpress.XtraVerticalGrid.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraVerticalGrid.v14.1.Design.dll" target="lib\net40\DevExpress.XtraVerticalGrid.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll" />
   </files>
 </package>

@@ -9,17 +9,17 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.Xpo</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.Xpo" version="[$version$]" />
       <dependency id="DevExpress.ExpressApp" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.Xpo.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.Xpo.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Xpo.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Xpo.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Xpo.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Xpo.v14.1.dll" />
   </files>
 </package>

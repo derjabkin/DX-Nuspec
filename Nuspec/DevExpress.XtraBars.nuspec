@@ -15,22 +15,22 @@
       <dependency id="DevExpress.XtraEditors" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraBars.v13.2.dll" />
-      <reference file="DevExpress.XtraNavBar.v13.2.dll" />
+      <reference file="DevExpress.XtraBars.v14.1.dll" />
+      <reference file="DevExpress.XtraNavBar.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraBars.v13.2.dll" target="lib\net40\DevExpress.XtraBars.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraBars.v13.2.Design.dll" target="lib\net40\DevExpress.XtraBars.v13.2.Design.dll" />
-    <file src="$SourceDir$\DevExpress.XtraNavBar.v13.2.dll" target="lib\net40\DevExpress.XtraNavBar.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraNavBar.v13.2.Design.dll" target="lib\net40\DevExpress.XtraNavBar.v13.2.Design.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraBars.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraBars.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraBars.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraBars.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraBars.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraBars.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraBars.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraBars.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraNavBar.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraNavBar.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraNavBar.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraNavBar.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraNavBar.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraNavBar.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraNavBar.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraNavBar.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraBars.v14.1.dll" target="lib\net40\DevExpress.XtraBars.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraBars.v14.1.Design.dll" target="lib\net40\DevExpress.XtraBars.v14.1.Design.dll" />
+    <file src="$SourceDir$\DevExpress.XtraNavBar.v14.1.dll" target="lib\net40\DevExpress.XtraNavBar.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraNavBar.v14.1.Design.dll" target="lib\net40\DevExpress.XtraNavBar.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraBars.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraBars.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraBars.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraBars.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraBars.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraBars.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraBars.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraBars.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraNavBar.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraNavBar.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraNavBar.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraNavBar.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraNavBar.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraNavBar.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraNavBar.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraNavBar.v14.1.resources.dll" />
   </files>
 </package>

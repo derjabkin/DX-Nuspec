@@ -15,13 +15,14 @@
       <dependency id="DevExpress.Xpo" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.DataAccess.v13.2.dll" />
+      <reference file="DevExpress.DataAccess.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.DataAccess.v13.2.dll" target="lib\net40\DevExpress.DataAccess.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.DataAccess.v13.2.resources.dll" target="lib\net40\ru\DevExpress.DataAccess.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.DataAccess.v14.1.dll" target="lib\net40\DevExpress.DataAccess.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.DataAccess.v14.1.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.DataAccess.v14.1.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.DataAccess.v14.1.resources.dll" target="lib\net40\ja\DevExpress.DataAccess.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.DataAccess.v14.1.resources.dll" target="lib\net40\ru\DevExpress.DataAccess.v14.1.resources.dll" />
   </files>
 </package>

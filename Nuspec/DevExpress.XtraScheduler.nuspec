@@ -17,26 +17,27 @@
       <dependency id="DevExpress.XtraSpellChecker" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraScheduler.v13.2.dll" />
-      <reference file="DevExpress.XtraScheduler.v13.2.Reporting.dll" />
+      <reference file="DevExpress.XtraScheduler.v14.1.dll" />
+      <reference file="DevExpress.XtraScheduler.v14.1.Reporting.dll" />
+      <reference file="DevExpress.XtraScheduler.v14.1.Extensions.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.Reporting.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.Reporting.dll" />
-    <file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.Extensions.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.Extensions.dll" />
-    <file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.Reporting.Extensions.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.Reporting.Extensions.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v13.2.Reporting.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v13.2.Extensions.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Reporting.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.Reporting.dll" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Extensions.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.Extensions.dll" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v14.1.Reporting.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll" />
   </files>
 </package>

@@ -13,24 +13,26 @@
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.XtraCharts" version="[$version$]" />
-      <dependency id="DevExpress.XtraPivotGrid" version="[$version$]" />
+      <dependency id="DevExpress.XtraGauges.Core" version="[$version$]" />
       <dependency id="DevExpress.DataAccess.UI" version="[$version$]" />
+      <dependency id="DevExpress.XtraPivotGrid" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraReports.v13.2.dll" />
+      <reference file="DevExpress.XtraReports.v14.1.dll" />
+      <reference file="DevExpress.XtraReports.v14.1.Extensions.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraReports.v13.2.dll" target="lib\net40\DevExpress.XtraReports.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraReports.v13.2.Design.dll" target="lib\net40\DevExpress.XtraReports.v13.2.Design.dll" />
-    <file src="$SourceDir$\DevExpress.XtraReports.v13.2.Extensions.dll" target="lib\net40\DevExpress.XtraReports.v13.2.Extensions.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraReports.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraReports.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraReports.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraReports.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v13.2.Extensions.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.dll" target="lib\net40\DevExpress.XtraReports.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Extensions.dll" target="lib\net40\DevExpress.XtraReports.v14.1.Extensions.dll" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Design.dll" target="lib\net40\DevExpress.XtraReports.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraReports.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraReports.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraReports.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraReports.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll" />
   </files>
 </package>

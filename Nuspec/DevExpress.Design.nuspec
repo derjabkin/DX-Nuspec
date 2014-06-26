@@ -13,12 +13,12 @@
     <tags>DevEpxress</tags>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Design.v13.2.dll" target="lib\net40\DevExpress.Design.v13.2.dll" />
-	<file src="$SourceDir$\DevExpress.XtraPrinting.v13.2.Design.dll" target="lib\net40\DevExpress.XtraPrinting.v13.2.Design.dll" />
-	<file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v13.2.dll" />
-	<file src="$SourceDir$\DevExpress.ExpressApp.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Design.v13.2.dll" />
-	<file src="$SourceDir$\DevExpress.ExpressApp.Win.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Win.Design.v13.2.dll" />
-	<file src="$SourceDir$\DevExpress.XtraScheduler.v13.2.Design.dll" target="lib\net40\DevExpress.XtraScheduler.v13.2.Design.dll" />	
-	<file src="$SourceDir$\DevExpress.ExpressApp.Design.ModelEditor.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Design.ModelEditor.v13.2.dll" />		
+    <file src="$SourceDir$\DevExpress.Design.v14.1.dll" target="lib\net40\DevExpress.Design.v14.1.dll" />
+	<file src="$SourceDir$\DevExpress.XtraPrinting.v14.1.Design.dll" target="lib\net40\DevExpress.XtraPrinting.v14.1.Design.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.DesignCore.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.DesignCore.v14.1.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.Design.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Design.v14.1.dll" />
+	<file src="$SourceDir$\DevExpress.ExpressApp.Win.Design.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Win.Design.v14.1.dll" />
+	<file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Design.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.Design.dll" />	
+	<file src="$SourceDir$\DevExpress.ExpressApp.Design.ModelEditor.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Design.ModelEditor.v14.1.dll" />		
   </files>
 </package>

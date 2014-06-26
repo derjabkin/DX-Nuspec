@@ -9,22 +9,22 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.Web</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.Web.ASPxTreeList" version="[$version$]" />
       <dependency id="DevExpress.Persistent.Base" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.Web.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.Web.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Web.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Web.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.ExpressApp.Web.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Web.Design.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.ExpressApp.Web.v13.2.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.ExpressApp.Web.v13.2.resources.dll" target="lib\net40\es\DevExpress.ExpressApp.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.ExpressApp.Web.v13.2.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Web.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.ExpressApp.Web.v13.2.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Web.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Web.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Web.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Web.Design.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Web.Design.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.ExpressApp.Web.v14.1.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.ExpressApp.Web.v14.1.resources.dll" target="lib\net40\es\DevExpress.ExpressApp.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.ExpressApp.Web.v14.1.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Web.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.ExpressApp.Web.v14.1.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Web.v14.1.resources.dll" />
   </files>
 </package>

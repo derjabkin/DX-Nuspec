@@ -16,20 +16,21 @@
       <dependency id="DevExpress.Design" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraRichEdit.v13.2.dll" />
+      <reference file="DevExpress.XtraRichEdit.v14.1.dll" />
+      <reference file="DevExpress.XtraRichEdit.v14.1.Extensions.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraRichEdit.v13.2.dll" target="lib\net40\DevExpress.XtraRichEdit.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.XtraRichEdit.v13.2.Design.dll" target="lib\net40\DevExpress.XtraRichEdit.v13.2.Design.dll" />
-    <file src="$SourceDir$\DevExpress.XtraRichEdit.v13.2.Extensions.dll" target="lib\net40\DevExpress.XtraRichEdit.v13.2.Extensions.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraRichEdit.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraRichEdit.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraRichEdit.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraRichEdit.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraRichEdit.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraRichEdit.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraRichEdit.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraRichEdit.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraRichEdit.v13.2.Extensions.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraRichEdit.v14.1.dll" target="lib\net40\DevExpress.XtraRichEdit.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.XtraRichEdit.v14.1.Extensions.dll" target="lib\net40\DevExpress.XtraRichEdit.v14.1.Extensions.dll" />
+    <file src="$SourceDir$\DevExpress.XtraRichEdit.v14.1.Design.dll" target="lib\net40\DevExpress.XtraRichEdit.v14.1.Design.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraRichEdit.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraRichEdit.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraRichEdit.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraRichEdit.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraRichEdit.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraRichEdit.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraRichEdit.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraRichEdit.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" target="lib\net40\de\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" target="lib\net40\es\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" target="lib\net40\ja\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" target="lib\net40\ru\DevExpress.XtraRichEdit.v14.1.Extensions.resources.dll" />
   </files>
 </package>

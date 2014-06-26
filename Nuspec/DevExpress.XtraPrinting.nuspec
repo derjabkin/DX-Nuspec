@@ -15,14 +15,14 @@
       <dependency id="DevExpress.XtraTreeList" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraPrinting.v13.2.dll" />
+      <reference file="DevExpress.XtraPrinting.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraPrinting.v13.2.dll" target="lib\net40\DevExpress.XtraPrinting.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.XtraPrinting.v13.2.resources.dll" target="lib\net40\de\DevExpress.XtraPrinting.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.XtraPrinting.v13.2.resources.dll" target="lib\net40\es\DevExpress.XtraPrinting.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.XtraPrinting.v13.2.resources.dll" target="lib\net40\ja\DevExpress.XtraPrinting.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.XtraPrinting.v13.2.resources.dll" target="lib\net40\ru\DevExpress.XtraPrinting.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.XtraPrinting.v14.1.dll" target="lib\net40\DevExpress.XtraPrinting.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.XtraPrinting.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraPrinting.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraPrinting.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraPrinting.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraPrinting.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraPrinting.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraPrinting.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraPrinting.v14.1.resources.dll" />
   </files>
 </package>

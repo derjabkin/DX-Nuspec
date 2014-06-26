@@ -9,18 +9,18 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.HtmlPropertyEditor.Web</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.ExpressApp.Web" version="[$version$]" />
       <dependency id="DevExpress.Web.ASPxHtmlEditor" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.HtmlPropertyEditor.Web.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.HtmlPropertyEditor.Web.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.HtmlPropertyEditor.Web.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.HtmlPropertyEditor.Web.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.ExpressApp.HtmlPropertyEditor.Web.Design.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.HtmlPropertyEditor.Web.Design.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.HtmlPropertyEditor.Web.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.HtmlPropertyEditor.Web.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.HtmlPropertyEditor.Web.Design.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.HtmlPropertyEditor.Web.Design.v14.1.dll" />
   </files>
 </package>

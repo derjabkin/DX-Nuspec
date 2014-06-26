@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.EasyTest.WinAdapter</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.EasyTest" version="[$version$]" />
@@ -18,10 +18,10 @@
       <dependency id="DevExpress.ExpressApp.PivotChart.Win" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.EasyTest.WinAdapter.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.EasyTest.WinAdapter.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.EasyTest.WinAdapter.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.EasyTest.WinAdapter.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.EasyTest.WinAdapter.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.EasyTest.WinAdapter.v14.1.dll" />
   </files>
 </package>

@@ -13,41 +13,40 @@
     <tags>DevEpxress</tags>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Data.v13.2.dll" target="lib\net40\DevExpress.Data.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.Utils.v13.2.dll" target="lib\net40\DevExpress.Utils.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.CodeParser.v13.2.dll" target="lib\net40\DevExpress.CodeParser.v13.2.dll" />
-    <file src="$SourceDir$\DevExpress.Printing.v13.2.Core.dll" target="lib\net40\DevExpress.Printing.v13.2.Core.dll" />
-    <file src="$SourceDir$\DevExpress.Sparkline.v13.2.Core.dll" target="lib\net40\DevExpress.Sparkline.v13.2.Core.dll" />
-    <file src="$SourceDir$\DevExpress.PivotGrid.v13.2.Core.dll" target="lib\net40\DevExpress.PivotGrid.v13.2.Core.dll" />
-    <file src="$SourceDir$\DevExpress.RichEdit.v13.2.Core.dll" target="lib\net40\DevExpress.RichEdit.v13.2.Core.dll" />
-	<file src="$SourceDir$\DevExpress.Images.v13.2.dll" target="lib\net40\DevExpress.Images.v13.2.dll"/>
-    <file src="$SourceDir$\DevExpress.Office.v13.2.Core.dll" target="lib\net40\DevExpress.Office.v13.2.Core.dll" />
-	<file src="$SourceDir$\DevExpress.Charts.v13.2.Core.dll" target="lib\net40\DevExpress.Charts.v13.2.Core.dll" />
-	<file src="$SourceDir$\DevExpress.Spreadsheet.v13.2.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v13.2.Core.dll" />
-    <file src="$SourceDir$\de\DevExpress.Data.v13.2.resources.dll" target="lib\net40\de\DevExpress.Data.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Data.v13.2.resources.dll" target="lib\net40\es\DevExpress.Data.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Data.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Data.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Data.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Data.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.Utils.v13.2.resources.dll" target="lib\net40\de\DevExpress.Utils.v13.2.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Utils.v13.2.resources.dll" target="lib\net40\es\DevExpress.Utils.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Utils.v13.2.resources.dll" target="lib\net40\ja\DevExpress.Utils.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Utils.v13.2.resources.dll" target="lib\net40\ru\DevExpress.Utils.v13.2.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.Printing.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.Printing.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Printing.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.Printing.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Printing.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.Printing.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Printing.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.Printing.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Sparkline.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.Sparkline.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.PivotGrid.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.PivotGrid.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.PivotGrid.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.PivotGrid.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.PivotGrid.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.PivotGrid.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.RichEdit.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.RichEdit.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.RichEdit.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.RichEdit.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.RichEdit.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.RichEdit.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.RichEdit.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.RichEdit.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\de\DevExpress.Office.v13.2.Core.resources.dll" target="lib\net40\de\DevExpress.Office.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.Office.v13.2.Core.resources.dll" target="lib\net40\es\DevExpress.Office.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.Office.v13.2.Core.resources.dll" target="lib\net40\ja\DevExpress.Office.v13.2.Core.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.Office.v13.2.Core.resources.dll" target="lib\net40\ru\DevExpress.Office.v13.2.Core.resources.dll" />
+    <file src="$SourceDir$\DevExpress.Data.v14.1.dll" target="lib\net40\DevExpress.Data.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Utils.v14.1.dll" target="lib\net40\DevExpress.Utils.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.CodeParser.v14.1.dll" target="lib\net40\DevExpress.CodeParser.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Printing.v14.1.Core.dll" target="lib\net40\DevExpress.Printing.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.Sparkline.v14.1.Core.dll" target="lib\net40\DevExpress.Sparkline.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.PivotGrid.v14.1.Core.dll" target="lib\net40\DevExpress.PivotGrid.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.RichEdit.v14.1.Core.dll" target="lib\net40\DevExpress.RichEdit.v14.1.Core.dll" />
+	<file src="$SourceDir$\DevExpress.Images.v14.1.dll" target="lib\net40\DevExpress.Images.v14.1.dll"/>
+    <file src="$SourceDir$\DevExpress.Office.v14.1.Core.dll" target="lib\net40\DevExpress.Office.v14.1.Core.dll" />
+	<file src="$SourceDir$\DevExpress.Charts.v14.1.Core.dll" target="lib\net40\DevExpress.Charts.v14.1.Core.dll" />
+	<file src="$SourceDir$\DevExpress.Spreadsheet.v14.1.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v14.1.Core.dll" />
+    <file src="$SourceDir$\de\DevExpress.Data.v14.1.resources.dll" target="lib\net40\de\DevExpress.Data.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Data.v14.1.resources.dll" target="lib\net40\es\DevExpress.Data.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Data.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Data.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Data.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Data.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.Utils.v14.1.resources.dll" target="lib\net40\de\DevExpress.Utils.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Utils.v14.1.resources.dll" target="lib\net40\es\DevExpress.Utils.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Utils.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Utils.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Utils.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Utils.v14.1.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.Printing.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.Printing.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Printing.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.Printing.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Printing.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.Printing.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Printing.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.Printing.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.PivotGrid.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.PivotGrid.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.PivotGrid.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.PivotGrid.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.RichEdit.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.RichEdit.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.RichEdit.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.RichEdit.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.RichEdit.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.RichEdit.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.RichEdit.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.RichEdit.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\de\DevExpress.Office.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.Office.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Office.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.Office.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Office.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.Office.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Office.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.Office.v14.1.Core.resources.dll" />
   </files>
 </package>

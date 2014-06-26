@@ -18,13 +18,13 @@
 	  <dependency id="DevExpress.Design" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.XtraSpreadsheet.v13.2.dll" />
-      <reference file="DevExpress.Spreadsheet.v13.2.Core.dll" />
+      <reference file="DevExpress.XtraSpreadsheet.v14.1.dll" />
+      <reference file="DevExpress.Spreadsheet.v14.1.Core.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v13.2.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v13.2.dll" />
-	<file src="$SourceDir$\DevExpress.XtraSpreadsheet.v13.2.Design.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v13.2.Design.dll" />
-    <file src="$SourceDir$\DevExpress.Spreadsheet.v13.2.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v13.2.Core.dll" />
+    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v14.1.dll" />
+	<file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.Design.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v14.1.Design.dll" />
+    <file src="$SourceDir$\DevExpress.Spreadsheet.v14.1.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v14.1.Core.dll" />
   </files>
 </package>

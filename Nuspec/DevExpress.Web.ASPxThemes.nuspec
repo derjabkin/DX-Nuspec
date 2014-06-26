@@ -15,10 +15,10 @@
       <dependency id="DevExpress.Web" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.Web.ASPxThemes.v13.2.dll" />
+      <reference file="DevExpress.Web.ASPxThemes.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxThemes.v13.2.dll" target="lib\net40\DevExpress.Web.ASPxThemes.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxThemes.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxThemes.v14.1.dll" />
   </files>
 </package>

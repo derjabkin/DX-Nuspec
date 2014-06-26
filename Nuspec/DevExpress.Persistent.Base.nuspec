@@ -9,17 +9,17 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.Persistent.Base</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.ExpressApp.Xpo" version="[$version$]" />
       <dependency id="DevExpress.XtraReports" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.Persistent.Base.v13.2.dll" />
+      <reference file="DevExpress.Persistent.Base.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Persistent.Base.v13.2.dll" target="lib\net40\DevExpress.Persistent.Base.v13.2.dll" />
+    <file src="$SourceDir$\DevExpress.Persistent.Base.v14.1.dll" target="lib\net40\DevExpress.Persistent.Base.v14.1.dll" />
   </files>
 </package>

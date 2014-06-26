@@ -9,20 +9,20 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.Demos.Win</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2000-2013 Developer Express Inc.</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
       <dependency id="DevExpress.Persistent.BaseImpl" version="[$version$]" />
       <dependency id="DevExpress.ExpressApp.TreeListEditors.Win" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.Demos.Win.v13.2.dll" />
+      <reference file="DevExpress.ExpressApp.Demos.Win.v14.1.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Demos.Win.v13.2.dll" target="lib\net40\DevExpress.ExpressApp.Demos.Win.v13.2.dll" />
-    <file src="$SourceDir$\de\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Demos.Win.v13.2.resources.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Demos.Win.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Demos.Win.v14.1.dll" />
+    <file src="$SourceDir$\de\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Demos.Win.v14.1.resources.dll" />
   </files>
 </package>

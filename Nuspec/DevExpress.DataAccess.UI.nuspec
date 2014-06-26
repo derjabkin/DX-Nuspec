@@ -18,14 +18,14 @@
       <dependency id="DevExpress.XtraGrid" version="[$version$]" />
     </dependencies>
     <references>
-      <reference file="DevExpress.DataAccess.v13.2.UI.dll" />
+      <reference file="DevExpress.DataAccess.v14.1.UI.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.DataAccess.v13.2.UI.dll" target="lib\net40\DevExpress.DataAccess.v13.2.UI.dll" />
-    <file src="$SourceDir$\de\DevExpress.DataAccess.v13.2.UI.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v13.2.UI.resources.dll" />
-    <file src="$SourceDir$\es\DevExpress.DataAccess.v13.2.UI.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v13.2.UI.resources.dll" />
-    <file src="$SourceDir$\ja\DevExpress.DataAccess.v13.2.UI.resources.dll" target="lib\net40\ja\DevExpress.DataAccess.v13.2.UI.resources.dll" />
-    <file src="$SourceDir$\ru\DevExpress.DataAccess.v13.2.UI.resources.dll" target="lib\net40\ru\DevExpress.DataAccess.v13.2.UI.resources.dll" />
+    <file src="$SourceDir$\DevExpress.DataAccess.v14.1.UI.dll" target="lib\net40\DevExpress.DataAccess.v14.1.UI.dll" />
+    <file src="$SourceDir$\de\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v14.1.UI.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v14.1.UI.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\ja\DevExpress.DataAccess.v14.1.UI.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\ru\DevExpress.DataAccess.v14.1.UI.resources.dll" />
   </files>
 </package>
