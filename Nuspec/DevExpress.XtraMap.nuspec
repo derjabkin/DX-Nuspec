@@ -21,7 +21,9 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.dll" target="lib\net40\DevExpress.XtraMap.v14.1.dll" />
-    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.Design.dll" target="lib\net40\DevExpress.XtraMap.v14.1.Design.dll" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.Design.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraMap.v14.1.Design.pdb" target="lib\net40" />
   </files>
 </package>

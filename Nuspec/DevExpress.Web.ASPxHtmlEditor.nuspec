@@ -19,7 +19,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxHtmlEditor.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxHtmlEditor.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxHtmlEditor.v14.1.resources.dll" />

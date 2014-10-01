@@ -24,7 +24,19 @@
     <file src="$SourceDir$\DevExpress.Office.v14.1.Core.dll" target="lib\net40\DevExpress.Office.v14.1.Core.dll" />
 	<file src="$SourceDir$\DevExpress.Charts.v14.1.Core.dll" target="lib\net40\DevExpress.Charts.v14.1.Core.dll" />
 	<file src="$SourceDir$\DevExpress.Spreadsheet.v14.1.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v14.1.Core.dll" />
-    <file src="$SourceDir$\de\DevExpress.Data.v14.1.resources.dll" target="lib\net40\de\DevExpress.Data.v14.1.resources.dll" />
+    <file src="$SourceDir$\DevExpress.Data.v14.1.pdb" target="lib\net40\DevExpress.Data.v14.1.pdb" />
+    <file src="$SourceDir$\DevExpress.Utils.v14.1.pdb" target="lib\net40\DevExpress.Utils.v14.1.pdb" />
+    <file src="$SourceDir$\DevExpress.CodeParser.v14.1.pdb" target="lib\net40\DevExpress.CodeParser.v14.1.pdb" />
+    <file src="$SourceDir$\DevExpress.Printing.v14.1.Core.pdb" target="lib\net40\DevExpress.Printing.v14.1.Core.pdb" />
+    <file src="$SourceDir$\DevExpress.Sparkline.v14.1.Core.pdb" target="lib\net40\DevExpress.Sparkline.v14.1.Core.pdb" />
+    <file src="$SourceDir$\DevExpress.PivotGrid.v14.1.Core.pdb" target="lib\net40\DevExpress.PivotGrid.v14.1.Core.pdb" />
+    <file src="$SourceDir$\DevExpress.RichEdit.v14.1.Core.pdb" target="lib\net40\DevExpress.RichEdit.v14.1.Core.pdb" />
+	<file src="$SourceDir$\DevExpress.Images.v14.1.pdb" target="lib\net40\DevExpress.Images.v14.1.pdb"/>
+    <file src="$SourceDir$\DevExpress.Office.v14.1.Core.pdb" target="lib\net40\DevExpress.Office.v14.1.Core.pdb" />
+	<file src="$SourceDir$\DevExpress.Charts.v14.1.Core.pdb" target="lib\net40\DevExpress.Charts.v14.1.Core.pdb" />
+	<file src="$SourceDir$\DevExpress.Spreadsheet.v14.1.Core.pdb" target="lib\net40\DevExpress.Spreadsheet.v14.1.Core.pdb" />
+    
+	<file src="$SourceDir$\de\DevExpress.Data.v14.1.resources.dll" target="lib\net40\de\DevExpress.Data.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Data.v14.1.resources.dll" target="lib\net40\es\DevExpress.Data.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Data.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Data.v14.1.resources.dll" />
     <file src="$SourceDir$\ru\DevExpress.Data.v14.1.resources.dll" target="lib\net40\ru\DevExpress.Data.v14.1.resources.dll" />

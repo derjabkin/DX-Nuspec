@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Dashboard.Win</id>
+    <version>$version$</version>
+    <title>DevExpress.Dashboard.Win</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Dashboard.Win</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.Dashboard.Core" version="[$version$]" />
+      <dependency id="DevExpress.BonusSkins" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Dashboard.v14.1.Win.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Dashboard.v14.1.Win.dll" target="lib\net40" />
+    <file src="c:\Sergey\DotNet\DevExpressBuild\$SourceDir$\DevExpress.Dashboard.v14.1.Win.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Dashboard.v14.1.Win.Design.dll" target="lib\net40" />
+    <file src="c:\Sergey\DotNet\DevExpressBuild\$SourceDir$\DevExpress.Dashboard.v14.1.Win.Design.pdb" target="lib\net40" />
+    <file src="$SourceDir$\de\DevExpress.Dashboard.v14.1.Win.resources.dll" target="lib\net40\de\DevExpress.Dashboard.v14.1.Win.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Dashboard.v14.1.Win.resources.dll" target="lib\net40\es\DevExpress.Dashboard.v14.1.Win.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Dashboard.v14.1.Win.resources.dll" target="lib\net40\ja\DevExpress.Dashboard.v14.1.Win.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Dashboard.v14.1.Win.resources.dll" target="lib\net40\ru\DevExpress.Dashboard.v14.1.Win.resources.dll" />
+  </files>
+</package>

@@ -19,7 +19,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Core.dll" target="lib\net40\DevExpress.XtraScheduler.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Core.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraScheduler.v14.1.Core.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll" />

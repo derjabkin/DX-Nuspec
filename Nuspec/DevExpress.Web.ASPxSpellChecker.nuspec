@@ -20,7 +20,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxSpellChecker.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxSpellChecker.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxSpellChecker.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxSpellChecker.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxSpellChecker.v14.1.resources.dll" />

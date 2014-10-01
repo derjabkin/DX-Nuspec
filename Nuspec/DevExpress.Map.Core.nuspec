@@ -19,6 +19,11 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Map.v14.1.Core.dll" target="lib\net40\DevExpress.Map.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.Map.v14.1.Core.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Map.v14.1.Core.pdb" target="lib\net40" />
+    <file src="$SourceDir$\de\DevExpress.Map.v14.1.Core.resources.dll" target="lib\net40\de\DevExpress.Map.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.Map.v14.1.Core.resources.dll" target="lib\net40\es\DevExpress.Map.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.Map.v14.1.Core.resources.dll" target="lib\net40\ja\DevExpress.Map.v14.1.Core.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.Map.v14.1.Core.resources.dll" target="lib\net40\ru\DevExpress.Map.v14.1.Core.resources.dll" />
   </files>
 </package>

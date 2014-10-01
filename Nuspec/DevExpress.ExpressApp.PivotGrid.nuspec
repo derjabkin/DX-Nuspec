@@ -19,7 +19,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.PivotGrid.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.PivotGrid.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.PivotGrid.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.PivotGrid.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" />
     <file src="$SourceDir$\ru\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.PivotGrid.v14.1.resources.dll" />

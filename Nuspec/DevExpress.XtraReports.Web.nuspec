@@ -20,7 +20,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Web.dll" target="lib\net40\DevExpress.XtraReports.v14.1.Web.dll" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Web.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraReports.v14.1.Web.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\de\DevExpress.XtraReports.v14.1.Web.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\es\DevExpress.XtraReports.v14.1.Web.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.XtraReports.v14.1.Web.resources.dll" target="lib\net40\ja\DevExpress.XtraReports.v14.1.Web.resources.dll" />

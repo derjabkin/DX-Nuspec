@@ -20,7 +20,9 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.dll" target="lib\net40\DevExpress.XtraCharts.v14.1.Web.dll" />
-    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.Design.dll" target="lib\net40\DevExpress.XtraCharts.v14.1.Web.Design.dll" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.Design.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraCharts.v14.1.Web.Design.pdb" target="lib\net40" />
   </files>
 </package>

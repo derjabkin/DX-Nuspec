@@ -20,6 +20,7 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.TreeListEditors.Win.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.TreeListEditors.Win.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.TreeListEditors.Win.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.TreeListEditors.Win.v14.1.pdb" target="lib\net40" />
   </files>
 </package>

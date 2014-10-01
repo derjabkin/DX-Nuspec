@@ -19,7 +19,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxTreeList.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxTreeList.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxTreeList.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxTreeList.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxTreeList.v14.1.resources.dll" />

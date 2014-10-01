@@ -19,8 +19,10 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Security.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Security.v14.1.dll" />
-    <file src="$SourceDir$\DevExpress.ExpressApp.Security.Design.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Security.Design.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Security.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Security.v14.1.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Security.Design.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Security.Design.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.ExpressApp.Security.v14.1.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Security.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.ExpressApp.Security.v14.1.resources.dll" target="lib\net40\es\DevExpress.ExpressApp.Security.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.ExpressApp.Security.v14.1.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Security.v14.1.resources.dll" />

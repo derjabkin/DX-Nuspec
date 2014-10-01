@@ -19,6 +19,7 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.SpellChecker.v14.1.Core.dll" target="lib\net40\DevExpress.SpellChecker.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.SpellChecker.v14.1.Core.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.SpellChecker.v14.1.Core.pdb" target="lib\net40" />
   </files>
 </package>

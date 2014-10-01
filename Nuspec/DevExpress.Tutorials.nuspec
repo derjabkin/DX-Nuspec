@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>DevExpress.Tutorials</id>
+    <version>$version$</version>
+    <title>DevExpress.Tutorials</title>
+    <authors>DevExpress</authors>
+    <owners>Sergej Derjabkin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress.Tutorials</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
+    <tags>DevEpxress</tags>
+    <dependencies>
+      <dependency id="DevExpress.DemoData.Core" version="[$version$]" />
+      <dependency id="DevExpress.XtraLayout" version="[$version$]" />
+      <dependency id="DevExpress.XtraVerticalGrid" version="[$version$]" />
+      <dependency id="DevExpress.DemoData" version="[$version$]" />
+    </dependencies>
+    <references>
+      <reference file="DevExpress.Tutorials.v14.1.dll" />
+    </references>
+  </metadata>
+  <files>
+    <file src="$SourceDir$\DevExpress.Tutorials.v14.1.dll" target="lib\net40" />
+    <file src="c:\Sergey\DotNet\DevExpressBuild\$SourceDir$\DevExpress.Tutorials.v14.1.pdb" target="lib\net40" />
+  </files>
+</package>

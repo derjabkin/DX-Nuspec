@@ -12,9 +12,9 @@
     <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
+      <dependency id="DevExpress.Utils.UI" version="[$version$]" />
       <dependency id="DevExpress.XtraWizard" version="[$version$]" />
       <dependency id="DevExpress.DataAccess" version="[$version$]" />
-      <dependency id="DevExpress.Utils.UI" version="[$version$]" />
       <dependency id="DevExpress.XtraGrid" version="[$version$]" />
     </dependencies>
     <references>
@@ -22,7 +22,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.DataAccess.v14.1.UI.dll" target="lib\net40\DevExpress.DataAccess.v14.1.UI.dll" />
+    <file src="$SourceDir$\DevExpress.DataAccess.v14.1.UI.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.DataAccess.v14.1.UI.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\de\DevExpress.DataAccess.v14.1.UI.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\es\DevExpress.DataAccess.v14.1.UI.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.DataAccess.v14.1.UI.resources.dll" target="lib\net40\ja\DevExpress.DataAccess.v14.1.UI.resources.dll" />

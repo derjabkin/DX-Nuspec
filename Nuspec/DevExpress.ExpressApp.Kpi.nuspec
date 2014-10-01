@@ -21,7 +21,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Kpi.v14.1.dll" target="lib\net40\DevExpress.ExpressApp.Kpi.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Kpi.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.ExpressApp.Kpi.v14.1.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" target="lib\net40\de\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" target="lib\net40\ja\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" />
     <file src="$SourceDir$\ru\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" target="lib\net40\ru\DevExpress.ExpressApp.Kpi.v14.1.resources.dll" />

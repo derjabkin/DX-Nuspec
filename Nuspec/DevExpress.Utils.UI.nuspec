@@ -20,7 +20,8 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Utils.v14.1.UI.dll" target="lib\net40\DevExpress.Utils.v14.1.UI.dll" />
+    <file src="$SourceDir$\DevExpress.Utils.v14.1.UI.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Utils.v14.1.UI.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.Utils.v14.1.UI.resources.dll" target="lib\net40\de\DevExpress.Utils.v14.1.UI.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Utils.v14.1.UI.resources.dll" target="lib\net40\es\DevExpress.Utils.v14.1.UI.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Utils.v14.1.UI.resources.dll" target="lib\net40\ja\DevExpress.Utils.v14.1.UI.resources.dll" />

@@ -3,28 +3,30 @@
   <metadata>
     <id>DevExpress.XtraSpreadsheet</id>
     <version>$version$</version>
-    <title>DevExpress XtraSpreadsheet</title>
+    <title>DevExpress.XtraSpreadsheet</title>
     <authors>DevExpress</authors>
     <owners>Sergej Derjabkin</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>DevExpress XtraSpreadsheet control</description>
+    <description>DevExpress.XtraSpreadsheet</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2014 Sergej Derjabkin</copyright>
+    <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies>
-      <dependency id="DevExpress.XtraRichEdit" version="[$version$]" />
-	  <dependency id="DevExpress.XtraCharts" version="[$version$]" />
-	  <dependency id="DevExpress.XtraPrinting" version="[$version$]" />
-	  <dependency id="DevExpress.Design" version="[$version$]" />
+      <dependency id="DevExpress.XtraGrid" version="[$version$]" />
+      <dependency id="DevExpress.XtraCharts" version="[$version$]" />
     </dependencies>
     <references>
       <reference file="DevExpress.XtraSpreadsheet.v14.1.dll" />
-      <reference file="DevExpress.Spreadsheet.v14.1.Core.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v14.1.dll" />
-	<file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.Design.dll" target="lib\net40\DevExpress.XtraSpreadsheet.v14.1.Design.dll" />
-    <file src="$SourceDir$\DevExpress.Spreadsheet.v14.1.Core.dll" target="lib\net40\DevExpress.Spreadsheet.v14.1.Core.dll" />
+    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.Design.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.XtraSpreadsheet.v14.1.Design.pdb" target="lib\net40" />
+    <file src="$SourceDir$\de\DevExpress.XtraSpreadsheet.v14.1.resources.dll" target="lib\net40\de\DevExpress.XtraSpreadsheet.v14.1.resources.dll" />
+    <file src="$SourceDir$\es\DevExpress.XtraSpreadsheet.v14.1.resources.dll" target="lib\net40\es\DevExpress.XtraSpreadsheet.v14.1.resources.dll" />
+    <file src="$SourceDir$\ja\DevExpress.XtraSpreadsheet.v14.1.resources.dll" target="lib\net40\ja\DevExpress.XtraSpreadsheet.v14.1.resources.dll" />
+    <file src="$SourceDir$\ru\DevExpress.XtraSpreadsheet.v14.1.resources.dll" target="lib\net40\ru\DevExpress.XtraSpreadsheet.v14.1.resources.dll" />
   </files>
 </package>

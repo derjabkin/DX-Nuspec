@@ -17,6 +17,6 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.EasyTest.v14.1.dll" target="lib\net40\DevExpress.EasyTest.v14.1.dll" />
+    <file src="$SourceDir$\DevExpress.EasyTest.v14.1.dll" target="lib\net40" />
   </files>
 </package>

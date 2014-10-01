@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>DevExpress.ExpressApp.Images</id>
+    <id>DevExpress.DemoData.Core</id>
     <version>$version$</version>
-    <title>DevExpress.ExpressApp.Images</title>
+    <title>DevExpress.DemoData.Core</title>
     <authors>DevExpress</authors>
     <owners>Sergej Derjabkin</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>DevExpress.ExpressApp.Images</description>
+    <description>DevExpress.DemoData.Core</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright (c) 2000-2014 Developer Express Inc.</copyright>
     <tags>DevEpxress</tags>
     <dependencies></dependencies>
     <references>
-      <reference file="DevExpress.ExpressApp.Images.v14.1.dll" />
+      <reference file="DevExpress.DemoData.v14.1.Core.dll" />
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.ExpressApp.Images.v14.1.dll" target="lib\net40" />
-    <file src="$SourceDir$\DevExpress.ExpressApp.Images.v14.1.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.DemoData.v14.1.Core.dll" target="lib\net40" />
+    <file src="c:\Sergey\DotNet\DevExpressBuild\$SourceDir$\DevExpress.DemoData.v14.1.Core.pdb" target="lib\net40" />
   </files>
 </package>

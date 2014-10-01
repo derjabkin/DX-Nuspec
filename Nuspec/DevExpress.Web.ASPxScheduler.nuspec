@@ -22,8 +22,10 @@
     </references>
   </metadata>
   <files>
-    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.dll" target="lib\net40\DevExpress.Web.ASPxScheduler.v14.1.dll" />
-    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.Design.dll" target="lib\net40\DevExpress.Web.ASPxScheduler.v14.1.Design.dll" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.pdb" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.Design.dll" target="lib\net40" />
+    <file src="$SourceDir$\DevExpress.Web.ASPxScheduler.v14.1.Design.pdb" target="lib\net40" />
     <file src="$SourceDir$\de\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" target="lib\net40\de\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" />
     <file src="$SourceDir$\es\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" target="lib\net40\es\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" />
     <file src="$SourceDir$\ja\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" target="lib\net40\ja\DevExpress.Web.ASPxScheduler.v14.1.resources.dll" />
